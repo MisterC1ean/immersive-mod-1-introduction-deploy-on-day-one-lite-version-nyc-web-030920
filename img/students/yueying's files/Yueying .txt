@@ -1,0 +1,8 @@
+
+Name: Yueying Wang
+Short bio: I was an Environmental engineer. I used to live in Houston and help people controlling flooding issues. I want to be a software engineer in the future!
+Previous education: master of environmental engineering, rice university
+Favorite quote: It is never too late to be what you might have been. -- George Eliot 
+Favorite city: Shanghai
+
+Git's ssh key:  git@github.com:wyy1234567/immersive-mod-1-introduction-deploy-on-day-one-lite-version-nyc-web-030920.git
